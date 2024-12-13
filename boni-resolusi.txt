@@ -1,0 +1,5 @@
+halo bon nama saya bonifasius daely dari medan
+Resolusi Saya :
+- membuat website menggunakan framework laravel
+- membuat photoshop yang menggunakan pen tool 
+- membuat form login menggunakan code igneter
